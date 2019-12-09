@@ -8,9 +8,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/pplcc/plotext"
-	"github.com/pplcc/plotext/custplotter"
-	"github.com/pplcc/plotext/examples"
+	"github.com/vitalyisaev2/plotext"
+	"github.com/vitalyisaev2/plotext/custplotter"
+	"github.com/vitalyisaev2/plotext/examples"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/vg/draw"
 	"gonum.org/v1/plot/vg/vgimg"
