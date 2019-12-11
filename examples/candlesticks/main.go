@@ -7,8 +7,8 @@ package main
 import (
 	"log"
 
-	"github.com/pplcc/plotext/custplotter"
-	"github.com/pplcc/plotext/examples"
+	"github.com/vitalyisaev2/plotext/custplotter"
+	"github.com/vitalyisaev2/plotext/examples"
 	"gonum.org/v1/plot"
 )
 
